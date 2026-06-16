@@ -31,7 +31,7 @@ Estudante de Gestão da Tecnologia da Informação apaixonada por tecnologia e b
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/giovanasdev/giovanasdev/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/giovanasilvacps70-coder/giovanasilvacps70-coder/output/github-contribution-grid-snake.svg)
 
 </div>
 
